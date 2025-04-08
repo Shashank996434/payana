@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11516328235",
+    "project_id": "payana-50f48",
+    "storage_bucket": "payana-50f48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11516328235:android:73d7ffac2ae9372fe76d6e",
+        "android_client_info": {
+          "package_name": "com.payana.cproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3mvQsCvLeW9BFZ7TRt2FuMN_W0T3rLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
