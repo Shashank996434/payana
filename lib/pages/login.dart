@@ -241,7 +241,7 @@ class _LoginState extends State<Login> {
       } catch (e) {
         setState(() {
           isLoading = false;
-          errorMessage = 'An unexpected error occurred.';
+          errorMessage = 'An unexpected error occurred,on my was to solve';
         });
       }
     }
